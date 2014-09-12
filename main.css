@@ -1,6 +1,6 @@
 body {
 	background-color: aqua;
-    background-image: url("http://bgfons.com/upload/brick_texture3316.jpg");
+    background-image: url("https://c2.staticflickr.com/6/5124/5353689542_09363f2546_b.jpg");
 }
 .about-me{
 	text-align: center;
@@ -88,3 +88,14 @@ body {
 	align: center;
 	position: center;
 }
+.hello{
+	background-image: url("");
+	color: white;
+	background-color: transparent;
+	border: transparent;
+}
+.cool7 {
+	background-image: url("http://2.bp.blogspot.com/_jFM-Fd8NDFE/TLO5oqcBZFI/AAAAAAAAKYs/MAMTqzxApVk/s1600/RusticCharm-1.jpg");
+    color: black;
+    background: transparent;
+ }
