@@ -1,0 +1,90 @@
+body {
+	background-color: aqua;
+    background-image: url("http://bgfons.com/upload/brick_texture3316.jpg");
+}
+.about-me{
+	text-align: center;
+	color: white;
+}
+.cool {
+	background-image: url("http://2.bp.blogspot.com/_jFM-Fd8NDFE/TLO5oqcBZFI/AAAAAAAAKYs/MAMTqzxApVk/s1600/RusticCharm-1.jpg");
+    color: white;
+ }
+.hello{
+	background-image: url("");
+	color: white;
+	background-color: transparent;
+}
+.borders{
+	border-style: solid;
+	border-width: 5px;
+	border-color:black;
+	margin: 10px;
+    padding: 30px;
+}
+.container{
+	border-color: black;
+    font-family: 'Arbutus', cursive;
+    font-size: 15px;
+    background-image: url("")
+}
+.row{
+	border-color: yellow;
+}
+.about-me{
+	    background-image: url("https://notesonthemenu.files.wordpress.com/2010/04/mint.jpg");
+}
+.about-me3{
+	background-image: url("http://www.picgifs.com/graphics/a/aliens/graphics-aliens-392955.gif");
+}
+.container2{
+	border-color: black;
+    font-family: 'Coustard', serif;
+    font-size: 15px;
+    color: black;
+}
+.container3{
+	border-color: black;
+    font-family: 'Droid Serif', serif;
+    font-size: 15px;
+    color: black;
+}
+.about-me2{
+	    background-image: url("http://www.zastavki.com/pictures/originals/2014/World___India_Ship_on_sunset_background_in_Goa_066001_.jpg");
+	    font-color: white;
+}
+.cool2{
+	background-image: url("http://www.wallpaperstop.com/wallpapers/nature-wallpapers/mountain-wallpapers/mountain-background-1680x1050-0911083.jpg");
+    font-color: red;
+}
+#work{ 
+	background-color: aqua;
+    background-image: url("http://www.wallpapersonview.com/wallpapers/4/landscape_wonderful_nature_quality_mountain_background_picture-120.jpg");
+}
+.hello2{
+	background-image: url("http://www.photl.com/images/photos/2008/11/19/2207/wm82953tt.jpg")
+}
+#carousel-example-generic{
+	width: 600px;
+	height: 400px;
+	position: center;
+	border-color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+.button {
+  padding:5px;
+  background-color: gray;
+  border: 1px solid #666;
+  color: black;
+  text-decoration:none;
+  font-family: 'Coustard', serif;
+
+}
+.carousel-inner {
+
+}
+.item{
+	align: center;
+	position: center;
+}
