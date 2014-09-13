@@ -1,3 +1,22 @@
+}
+@-ms-viewport{
+  width: device-width;
+}
+ @media (max-width: 979px) {
+    #myCarousel.carousel img {
+    width: 100%;
+    height: auto;
+
+    }
+    }
+
+    @media (max-width: 470px) {
+    #myCarousel.carousel img {
+    max-width:300%;
+    width:150%;
+    min-height: 300px;
+    }
+    }
 body {
 	background-color: white;
     background-image: url("http://www.mollino.de/wp-content/uploads/2013/01/2514-91152-01-off-white.jpg");
