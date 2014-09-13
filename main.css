@@ -1,6 +1,6 @@
 body {
-	background-color: aqua;
-    background-image: url("https://c2.staticflickr.com/6/5124/5353689542_09363f2546_b.jpg");
+	background-color: white;
+    background-image: url("http://www.mollino.de/wp-content/uploads/2013/01/2514-91152-01-off-white.jpg");
 }
 .about-me{
 	text-align: center;
@@ -39,9 +39,9 @@ body {
 }
 .container2{
 	border-color: black;
-    font-family: 'Coustard', serif;
-    font-size: 20px;
-    color: white;
+    font-family: 'Niconne', cursive;
+    font-size: 25px;
+    color: black;
 }
 .container3{
 	border-color: black;
@@ -99,5 +99,5 @@ body {
 	background-image: url("http://2.bp.blogspot.com/_jFM-Fd8NDFE/TLO5oqcBZFI/AAAAAAAAKYs/MAMTqzxApVk/s1600/RusticCharm-1.jpg");
     color: black;
     background: transparent;
-    font-family: 'Coustard', serif;
+    font-family: 'Lily Script One', cursive;
  }
