@@ -26,7 +26,7 @@ body {
 	color: white;
 }
 .cool {
-	background-image: url("http://2.bp.blogspot.com/_jFM-Fd8NDFE/TLO5oqcBZFI/AAAAAAAAKYs/MAMTqzxApVk/s1600/RusticCharm-1.jpg");
+	background-image: url("http://1.bp.blogspot.com/-f-H36VjPrFY/TnddoC5DdOI/AAAAAAAACSQ/pOPalDwIcF0/s1600/Daisy+on+the+wood.jpg");
     color: white;
  }
 .hello{
@@ -52,6 +52,8 @@ body {
 }
 .about-me{
 	    background-image: url("https://notesonthemenu.files.wordpress.com/2010/04/mint.jpg");
+	    color: black;
+        font-family: 'Sintony', sans-serif;
 }
 .about-me3{
 	background-image: url("http://www.picgifs.com/graphics/a/aliens/graphics-aliens-392955.gif");
