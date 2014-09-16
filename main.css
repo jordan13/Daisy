@@ -135,3 +135,7 @@ img {
      size: custom;
 
 }
+
+#carousel-example-generic.full-width {
+	width: 100%;
+}
