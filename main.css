@@ -99,12 +99,14 @@ body {
 .button {
   padding:5px;
   background-color: gray;
-  border: 1px solid #666;
+  border: 3px solid #666;
   color: black;
   text-decoration:none;
   font-family: 'Coustard', serif;
   margin: 6px;
-
+  width: 100%;
+   min-width: 5px;  
+   max-width: 100px; 
 }
 .carousel-inner {
      border: 0 none;
