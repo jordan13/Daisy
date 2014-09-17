@@ -138,3 +138,10 @@ img {
 #carousel-example-generic.full-width {
 	width: 100%;
 }
+.about-me5{
+	    background-image: url("https://notesonthemenu.files.wordpress.com/2010/04/mint.jpg");
+	    color: black;
+        font-family: 'Sintony', sans-serif;
+        width: 100%;
+        height: 100%;
+}
