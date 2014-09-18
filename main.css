@@ -161,17 +161,18 @@ img {
 	margin: 10px;
     padding: 30px;
 }
-.about-me11{
-	    border: none;
+.about-me9{
+	    background-image: none;
+	    color: black;
         font-family: 'Sintony', sans-serif;
-        background: transparent;
-        position: middle;
-        box-shadow: 10px 20px 10px 20px black;
+        border-color: transparent;
+        margin: 180px;
         margin-left: auto;
 	    margin-right: auto; 
 	    border: 0 none;
-        max-width: 100%;
-       vertical-align: middle;
-       size: custom;
-       position: center;
+        max-width: 600px;
+        vertical-align: middle;
+        size: custom;
+        position: center;
+        position: fixed center;
 }
