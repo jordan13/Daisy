@@ -176,3 +176,15 @@ img {
         position: center;
         position: fixed center;
 }
+.button2 {
+  padding:10px;
+  background-color: gray;
+  border: 3px solid #666;
+  color: black;
+  text-decoration:none;
+  font-family: 'Coustard', serif;
+  margin: 6px;
+  width: 100%;
+   min-width: 60px;  
+   max-width: 210px; 
+}
