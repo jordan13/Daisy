@@ -189,3 +189,9 @@ img {
    min-width: 60px;  
    max-width: 210px; 
 }
+.h1 {
+  font-size: 5.9vw;
+}
+.h2 {
+  font-size: 4.0vh;
+}
